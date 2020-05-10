@@ -2,8 +2,6 @@
 var tbody = d3.select("tbody");
 
 // New data object with date format
-
-
 data.forEach((ufoTracking) => {
     var row = tbody.append('tr');
     Object.entries(ufoTracking).forEach(([key, value]) => {

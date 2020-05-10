@@ -29,7 +29,7 @@
   
   /* The footer is positioned at the bottom of the page */
   .footer {
-    position: absolute;
+    /*position: absolute;*/
     right: 0;
     bottom: 0;
     left: 0;
@@ -39,7 +39,7 @@
   
   /* The code styles the text at the bottom of the footer */
   .footer > .bottom {
-    position: absolute;
+    /*position: absolute;*/
     right: 0;
     bottom: 0;
     left: 0;
@@ -58,7 +58,7 @@
     bottom: 5px;
     left: 150px;
     width: 35px;
-    color: white;
+    color: whitesmoke;
   }
 
   /* Adding styles to the aside and filter form */
@@ -117,6 +117,7 @@
     margin-top: 200px;
     font-size: 0.1rem;
     animation: title 1.2s forwards linear;
+    color: rgb(219, 202, 170);
   }
   
   .hero p {
@@ -124,6 +125,7 @@
     opacity: 0;
     animation: subtitle 1.2s forwards linear;
     animation-delay: 1.2s;
+    color: rgb(219, 202, 170); 
   }
   
   /* input placeholder color changes */
