@@ -26,8 +26,8 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 - - -
 ### The Webpage
-![image](UFO-challenge/static/images/image1.png)
-![image](UFO-challenge/static/images/image2.png)
+![image](UFO-level-1/static/images/image1.png)
+![image](UFO-level-1/static/images/image2.png)
 
 - - -
 ### Dataset
